@@ -31,7 +31,7 @@
 # 提示：
 
 # 1 <= m, n <= 100
-# 题目数据保证答案小于等于 2 * 10^9
+# 题目数据保证答案小于等于 2 * 10^9]
 class Solution(object):
     def uniquePaths(self, m, n):
         """
